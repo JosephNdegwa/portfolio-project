@@ -10,10 +10,14 @@
 }
 .phrase{
         font-family: sans-serif;
+      
 }
 .contact{
         text-align: center;
        
+}
+#body{
+        margin-block: 7px;
 }
 
 

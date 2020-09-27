@@ -9,8 +9,10 @@ Joseph Ndegwa
 
 ## Technologies used
 * HTML
+* CSS
 * Git
 * Github
+* VS Code
 
 ## To do
 * Include more functions with the skills I'll learn in the future

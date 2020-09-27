@@ -1,19 +1,21 @@
 # My Portfolio Landing Page
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining
+This is my portfolio landing page
 
 ### Author
 Joseph Ndegwa
 
 ## Description
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ This project seeks to showcase all  the skills that I have aquired in my first week at Moringa School.
 
 ## To do
-* Add navigation bar
-* Add JS funtionality
+* Include more functions with the skills are in due coarse
+* Add more HTML functionality
 
 # Link
 A link to gh-pages
 
 ## Contact
-srhfherfropkork
+[Email:] (Kariukindegwa98@gmail.com)
+
+# License
 

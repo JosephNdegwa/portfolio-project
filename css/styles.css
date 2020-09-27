@@ -3,21 +3,24 @@
         font-weight: bold;
         font-size: 140%;
         color: rgb(0, 153, 255);
-        
+        text-transform: capitalize;
+        font-size: 250%;
 }
 .logo{
         text-align: center;
+       
 }
 .phrase{
         font-family: sans-serif;
+        font-size: 300%;
+        float:center;
+        text-transform: capitalize;
       
 }
 .contact{
         text-align: center;
        
 }
-#body{
-        margin-block: 7px;
-}
+
 
 

@@ -8,17 +8,18 @@
 }
 .logo{
         text-align: center;
+        display: block;
+        width: 251px;
+        border-radius: 100px;
+        margin: auto;
        
 }
 .phrase{
-        font-family: sans-serif;
+        font-family: 'Times New Roman', Times, serif;
         font-size: 300%;
         float:center;
         text-transform: capitalize;
       
-}
-.social{
-        text-align: center;
 }
 .facebook{
 
@@ -29,6 +30,7 @@
         text-align: right;
         text-decoration: none;
         margin: 5px 2px;
+
 }
 .twitter{
         color: white;
@@ -38,6 +40,7 @@
         text-align: right;
         text-decoration: none;
         margin: 5px 2px;
+
 }
 .link{
         text-align: center;
@@ -50,4 +53,12 @@
         margin: 3px 2px;
        
 }
-
+.flex-container{
+        display: flex;
+}
+.main-content{
+        flex: 1;
+}
+.sidebar{
+        flex: 1;
+}

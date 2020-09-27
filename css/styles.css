@@ -17,10 +17,37 @@
         text-transform: capitalize;
       
 }
-.contact{
+.social{
         text-align: center;
+}
+.facebook{
+
+        color: white;
+        background-color: dodgerblue;
+        font-size: medium;
+        padding: 15px;
+        text-align: right;
+        text-decoration: none;
+        margin: 5px 2px;
+}
+.twitter{
+        color: white;
+        background-color: dodgerblue;
+        font-size: medium;
+        padding: 15px;
+        text-align: right;
+        text-decoration: none;
+        margin: 5px 2px;
+}
+.link{
+        text-align: center;
+        color: white;
+        background-color: deepskyblue;
+        font-size: medium;
+        padding: 15px;
+        text-align: left;
+        text-decoration: none;
+        margin: 3px 2px;
        
 }
-
-
 

@@ -19,6 +19,7 @@
         font-size: 300%;
         float:center;
         text-transform: capitalize;
+        color: #042D3D;
       
 }
 .facebook{
@@ -58,7 +59,9 @@
 }
 .main-content{
         flex: 1;
+        background-color: palevioletred;
 }
 .sidebar{
         flex: 1;
+        background-color: paleturquoise;
 }

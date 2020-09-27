@@ -1,9 +1,6 @@
 # My Portfolio Landing Page
 This is my portfolio landing page
 
-## App
-![App](app.png)
-
 ### Author
 Joseph Ndegwa
 

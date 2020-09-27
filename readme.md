@@ -7,6 +7,11 @@ Joseph Ndegwa
 ## Description
  This project seeks to showcase all  the skills that I have aquired in my first week at Moringa School.
 
+## Technologies used
+* HTML
+* Git
+* Github
+
 ## To do
 * Include more functions with the skills I'll learn in the future
 * Add more HTML functionality
@@ -15,8 +20,9 @@ Joseph Ndegwa
 A link to gh-pages
 
 ## Contact
-[Email:](Kariukindegwa98@gmail.com)
+[Email](Kariukindegwa98@gmail.com)
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+
 Copyright (C) {2020}

@@ -24,7 +24,7 @@ Joseph Ndegwa
 * Add more HTML functionality
 
 # Link
-[Portfolio](https://josephndegwa.github.io/portfolio-project/)
+* https://josephndegwa.github.io/portfolio-project/
 
 ## Contact
 * Kariukindegwa98@gmail.com

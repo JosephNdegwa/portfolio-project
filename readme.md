@@ -24,7 +24,7 @@ Joseph Ndegwa
 * Add more HTML functionality
 
 # Link
-A link to gh-pages
+![Portfolio](https://josephndegwa.github.io/portfolio-project/)
 
 ## Contact
 * Kariukindegwa98@gmail.com

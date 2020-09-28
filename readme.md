@@ -1,5 +1,7 @@
 # My Portfolio Landing Page
 This is my portfolio landing page
+## App
+![App](images/app.png)
 
 ### Author
 Joseph Ndegwa
@@ -22,7 +24,7 @@ Joseph Ndegwa
 A link to gh-pages
 
 ## Contact
-* (Kariukindegwa98@gmail.com)
+* Kariukindegwa98@gmail.com
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)

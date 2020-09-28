@@ -9,6 +9,9 @@ Joseph Ndegwa
 ## Description
  This project seeks to showcase all  the skills that I have aquired in my first week at Moringa School. Furthermore, it also tells more about me including my educational background and career experiences.
 
+ ## Setup and installation
+- Run `git clone https://github.com/JosephNdegwa/portfolio-project.git`
+- Serve on browser 
 ## Technologies used
 * HTML
 * CSS
